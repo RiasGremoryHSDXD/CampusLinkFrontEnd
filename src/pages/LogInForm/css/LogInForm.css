@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.login-container {
+  @apply flex items-center justify-center min-h-screen bg-gray-100;
+}
+
+.login-title {
+  @apply text-4xl font-bold text-blue-600;
+}
