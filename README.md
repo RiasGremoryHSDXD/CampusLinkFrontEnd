@@ -237,7 +237,7 @@ We welcome contributions from the USTP-CDO community! Here's how you can help:
 ### Contact Information
 
 **Group 7 - USTP-CDO**
-- 📧 Email: [group7@ustp.edu.ph](mailto:group7@ustp.edu.ph)
+- 📧 Email: Coming soon! Please check back later for contact information
 - 🌐 University: University of Science and Technology of Southern Philippines - Cagayan de Oro
 
 ---
