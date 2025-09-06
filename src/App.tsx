@@ -1,7 +1,7 @@
-import LogInForm from "./pages/LogInForm/components/LogInForm"
+import AuthForm from "./pages/AuthForm/index"
 
 export default function App() {
   return (
-    <LogInForm/>
+    <AuthForm/>
   )
 }
